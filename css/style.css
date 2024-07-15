@@ -1,0 +1,30 @@
+.container-fluid {
+    background-color: #083B4C;
+}
+
+.square {
+    height:100px;
+    line-height: 100px;
+    background-color:#1389B2;
+    border:1px solid black;
+}
+
+.multiplo3 {
+    background-color: #0CD6A1;
+}
+
+.multiplo5 {
+    background-color: #FFD166;
+}
+
+.multiploentrambi {
+    background-color:#F0466F;
+}
+
+.my-col {
+    width:calc((100% / 7) - 10px);
+    margin:5px 5px;
+}
+.size{
+    font-size: 4rem;
+}
